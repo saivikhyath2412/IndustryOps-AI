@@ -1,0 +1,5 @@
+[functions.ingest-sensor]
+verify_jwt = false
+
+[functions.process-escalations]
+verify_jwt = false
